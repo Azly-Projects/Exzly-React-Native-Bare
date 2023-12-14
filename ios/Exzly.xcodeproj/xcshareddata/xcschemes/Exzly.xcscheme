@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ExzlyRNBare.app"
-               BlueprintName = "ExzlyRNBare"
-               ReferencedContainer = "container:ExzlyRNBare.xcodeproj">
+               BuildableName = "Exzly.app"
+               BlueprintName = "Exzly"
+               ReferencedContainer = "container:Exzly.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ExzlyRNBareTests.xctest"
-               BlueprintName = "ExzlyRNBareTests"
-               ReferencedContainer = "container:ExzlyRNBare.xcodeproj">
+               BuildableName = "ExzlyTests.xctest"
+               BlueprintName = "ExzlyTests"
+               ReferencedContainer = "container:Exzly.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ExzlyRNBare.app"
-            BlueprintName = "ExzlyRNBare"
-            ReferencedContainer = "container:ExzlyRNBare.xcodeproj">
+            BuildableName = "Exzly.app"
+            BlueprintName = "Exzly"
+            ReferencedContainer = "container:Exzly.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ExzlyRNBare.app"
-            BlueprintName = "ExzlyRNBare"
-            ReferencedContainer = "container:ExzlyRNBare.xcodeproj">
+            BuildableName = "Exzly.app"
+            BlueprintName = "Exzly"
+            ReferencedContainer = "container:Exzly.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

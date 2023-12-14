@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ExzlyRNBareTests : XCTestCase
+@interface ExzlyTests : XCTestCase
 
 @end
 
-@implementation ExzlyRNBareTests
+@implementation ExzlyTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

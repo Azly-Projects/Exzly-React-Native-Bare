@@ -1,6 +1,6 @@
 {
-  "name": "ExzlyRNBare",
-  "version": "0.0.1",
+  "name": "exzly-react-native",
+  "version": "0.0.0-development",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
